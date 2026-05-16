@@ -42,7 +42,7 @@ Este repositorio contiene el desarrollo de la práctica de laboratorio del Módu
 .
 ├── README.md                       # Este archivo
 ├── practica_mongodb.js             # Script con todos los comandos ejecutados
-└── Practica_MongoDB_G1.docx        # Documento con capturas y evidencias
+└── Practica comandos mongodb.docx        # Documento con capturas y evidencias
 ```
 
 ---
